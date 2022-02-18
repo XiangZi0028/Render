@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WellLink-ZZX\Desktop\ZSoftRender\thirdparty\build\CMakeFiles\187315b0cbf20c782e1fb642f50bfdc4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7DC3F54D-F544-35A1-975B-D496E5E32754}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
